@@ -32,3 +32,8 @@
 
 [slides](core-kubernetes-slides-day-1.pdf)  
 [Day 1.zip](labs/Day1.zip)
+
+### Day 2
+
+[slides](core-kubernetes-slides-day-2.pdf)  
+[Day 2.zip](labs/Day2.zip)
